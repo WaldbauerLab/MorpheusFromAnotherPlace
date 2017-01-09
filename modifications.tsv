@@ -1,0 +1,20 @@
+Description	Type	Residue	Monoisotopic Mass Shift (Da)	Average Mass Shift (Da)	Default	Chemical Formula
+carbamidomethylation of OxC	amino acid residue	C	73.01637834	73.05072	fixed	CH3NO
+oxidation of M	amino acid residue	M	15.99491463	15.9994	variable	O
+N-terminus heavy dimethylation	peptide N-terminus	n/a	32.0564	32.0778	variable	C2H2D4
+N-terminus light dimethylation	peptide N-terminus	n/a	28.0313	28.0532	variable	C2H6
+C-terminus 18O2	peptide C-terminus	n/a	4.0085	3.9995	variable	18O2
+C-terminus 18O1	peptide C-terminus	n/a	2.0042	1.9998	none	18O1
+heavy dimethylation of K	amino acid residue	K	32.0564	32.0778	none	C2H2D4
+light dimethylation of K	amino acid residue	K	28.0313	28.0532	none	C2H2D4
+N-terminus heavy monomethylation	peptide N-terminus	n/a	16.0282	16.0389	none	CD2
+N-terminus light monomethylation	peptide N-terminus	n/a	14.0157	14.0266	none	CH2
+heavy monomethylation of K	amino acid residue	K	16.0282	16.0389	none	C2H2D4
+light monomethylation of K	amino acid residue	K	14.0157	14.0266	none	C2H2D4
+carbamidomethylation of C	amino acid residue	C	57.02146373	57.05132	none	CH3NO
+acetylation of protein N-terminus	protein N-terminus	n/a	42.01056469	42.03668	none	C2H2O
+phosphorylation of S	amino acid residue	S	79.96633092	79.979902	none	HPO3
+phosphorylation of T	amino acid residue	T	79.96633092	79.979902	none	HPO3
+phosphorylation of Y	amino acid residue	Y	79.96633092	79.979902	none	HPO3
+deamidation of N	amino acid residue	N	0.984015593	0.98476	none	H-1N-1O
+deamidation of Q	amino acid residue	Q	0.984015593	0.98476	none	H-1N-1O
